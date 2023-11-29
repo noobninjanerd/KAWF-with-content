@@ -8,10 +8,9 @@ export default function Footer() {
       <div className="first">
         <img className="footer-logo" src={newLogo} alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus,
-          quasi nemo debitis autem perferendis libero explicabo maiores
-          consectetur animi commodi dolorem itaque expedita, optio at eaque
-          eveniet assumenda ipsum quo?
+          KAWF is a registered (Reg. No. 2354168) Not-for-Profit self-funded,
+          volunteer-based organization in Kashmir Valley, which aims to help 
+          and improve the life of abused & starving strays of the valley.
         </p>
       </div>
       <div className="third">
